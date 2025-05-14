@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Piyusha!
-- 👀 I’m interested in all things technology (yet to find my niche). So far I have loved coding in Java, can use Object-Oriented Programming and solve problems!
-- 🌱 I’m currently learning Data Structures & Algorithms as well as Introduction to Computer Systems.
+- 👀 I’m interested in all things technology (yet to find my niche) but really want to focus on building software that makes an impact.
+- 🌱 My favorite course so far has been Data Structures and Algorithms and I'm excited to learn Relational Databases this Summer!
 - 📫 How to reach me: shoot me a text on LinkedIn - www.linkedin.com/in/piyushasatija.
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I have recently taken up photography and really enjoy it! I can also finish a book (that I'm really into) within a few hours!
